@@ -1,18 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![](https://www.love85g.com/wp-content/uploads/2019/06/%E4%B8%8B%E8%BD%BD.png)
 
-## Available Scripts
-
-In the project directory, you can run:
-
+## 启动项目
+### `npm install`
 ### `npm start`
-
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
-
-### `npm test`
-
-
 ### `npm run build`
